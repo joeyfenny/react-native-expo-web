@@ -15,7 +15,7 @@
     "expo": "31.0.2",
     "react": "16.6.3",
     "react-dom": "16.6.3",
-    "react-art": "16.5.2",
+    "react-art": "16.10.2",
     "react-native": "0.57.7",
     "react-native-web": "0.9.3",
     "react-scripts": "2.1.1"
