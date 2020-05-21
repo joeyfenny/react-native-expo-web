@@ -12,7 +12,7 @@
     "type": "git"
   },
   "dependencies": {
-    "expo": "31.0.2",
+    "expo": "37.0.12",
     "react": "16.6.3",
     "react-dom": "16.6.3",
     "react-art": "16.5.2",
