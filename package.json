@@ -31,7 +31,7 @@
     "publish.native": "expo publish"
   },
   "devDependencies": {
-    "babel-preset-expo": "5.0.0",
+    "babel-preset-expo": "8.3.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-react-app": "3.0.5",
     "eslint-plugin-react-native": "3.5.0",
